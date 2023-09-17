@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8ccb24ae.css",
-    "main.js": "/portfolio/static/js/main.8e8532b5.js",
+    "main.js": "/portfolio/static/js/main.2c289b0e.js",
     "static/media/netflix.png": "/portfolio/static/media/netflix.531f72f3875dd5aea960.png",
     "static/media/resto.png": "/portfolio/static/media/resto.6bedd1aaebc617600d71.png",
     "static/media/Nithin R - CV.pdf": "/portfolio/static/media/Nithin R - CV.4a7f4261c7686b2f7ddd.pdf",
@@ -18,10 +18,10 @@
     "static/media/logo.png": "/portfolio/static/media/logo.4589ab1487b3ff9ff667.png",
     "index.html": "/portfolio/index.html",
     "main.8ccb24ae.css.map": "/portfolio/static/css/main.8ccb24ae.css.map",
-    "main.8e8532b5.js.map": "/portfolio/static/js/main.8e8532b5.js.map"
+    "main.2c289b0e.js.map": "/portfolio/static/js/main.2c289b0e.js.map"
   },
   "entrypoints": [
     "static/css/main.8ccb24ae.css",
-    "static/js/main.8e8532b5.js"
+    "static/js/main.2c289b0e.js"
   ]
 }
