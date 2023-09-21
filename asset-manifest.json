@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fe4dede7.css",
-    "main.js": "/portfolio/static/js/main.985c0331.js",
+    "main.css": "/portfolio/static/css/main.643942ce.css",
+    "main.js": "/portfolio/static/js/main.d91bd11c.js",
     "static/media/netflix.png": "/portfolio/static/media/netflix.531f72f3875dd5aea960.png",
     "static/media/resto.png": "/portfolio/static/media/resto.6bedd1aaebc617600d71.png",
     "static/media/Nithin R - CV.pdf": "/portfolio/static/media/Nithin R - CV.4a7f4261c7686b2f7ddd.pdf",
@@ -17,11 +17,11 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/logo.png": "/portfolio/static/media/logo.4589ab1487b3ff9ff667.png",
     "index.html": "/portfolio/index.html",
-    "main.fe4dede7.css.map": "/portfolio/static/css/main.fe4dede7.css.map",
-    "main.985c0331.js.map": "/portfolio/static/js/main.985c0331.js.map"
+    "main.643942ce.css.map": "/portfolio/static/css/main.643942ce.css.map",
+    "main.d91bd11c.js.map": "/portfolio/static/js/main.d91bd11c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe4dede7.css",
-    "static/js/main.985c0331.js"
+    "static/css/main.643942ce.css",
+    "static/js/main.d91bd11c.js"
   ]
 }
